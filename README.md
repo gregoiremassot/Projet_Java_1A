@@ -1,3 +1,5 @@
+![Alt text](https://github.com/gregoiremassot/Projet_Java_1A/blob/master/Screenshots/Screenshot_1.png?raw=true "Optional Title")
+
 # Projet Java 1A
 
 Voici les sources du projet réalisé dans le cours de Java lors de ma 1ère année aux Mines, en Juin 2014.
